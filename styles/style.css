@@ -1,0 +1,119 @@
+.daivi {
+	margin: 20px;
+}
+a {
+	text-decoration: none;
+	color: #000000;
+	font-size: 26px;
+	font-weight: 700;
+	margin: 0px 40px;
+
+}
+.joker {
+	display: inline;
+}
+#ball {
+	font-weight: 32px;
+	width: 32px;
+}
+.card img {
+	width: 100%;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+.card {
+	width: 360px;
+	height: 360px;
+	background-color: #bbbec4;
+	border-radius: 5px;
+	display: inline-block;
+	margin: 40px;
+
+
+}
+.card .photo {
+	position: relative;
+}
+.photo > p {
+	position: absolute;
+	color: #FFFFFF;
+	font-size: 20px;
+	font font-weight: 700px;
+	top: 32px;
+	left: 41px;
+	z-index: 1;
+}
+.card h6 {
+	font-size: 10px;
+	font-weight: 700;
+	color: #8A8787;
+
+}
+.texts {
+	margin-top: 68px;
+	margin-left: 37px;
+}
+.photoes {
+
+	width: 16px;
+	height: 16px;
+}
+.cards {
+	box-sizing: border-box;
+}
+#hihi {
+	padding: 0px 0px 0px 0px;
+
+}
+.joker {
+	display: inline-block;
+}
+#jurk {
+	width: 362px;
+
+}
+#most {
+	width: 758px;
+	height: 430px;
+	padding: 0px 0px 0px 40px;
+}
+#grass {
+	width: 758px;
+	height: 430px;
+	display: block;
+	padding: 40px 0px 0px 40px;
+}
+.forest {
+	position: absolute;
+	width: 362px;
+	height: 212px;
+	display: inline-block;
+	right: 15px;
+	bottom: 130px;
+	padding: 0px 600px 0px 0px;
+
+
+}
+#forest1 {
+	position: absolute;
+	width: 362px;
+	height: 212px;
+	right: 15px;
+	bottom: 130px;
+	padding: 0px 50px 0px 0px;
+
+}
+#forest2 {
+	position: absolute;
+	width: 362px;
+	height: 212px;
+	padding: 0px 0px 0px 1200px;
+	bottom: 1px;
+	margin: 50px;
+
+
+	
+}
+
+
+	
