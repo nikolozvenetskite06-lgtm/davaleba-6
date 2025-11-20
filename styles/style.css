@@ -11,6 +11,7 @@ a {
 }
 .joker {
 	display: inline;
+	vertical-align: middle;
 }
 #ball {
 	font-weight: 32px;
@@ -91,6 +92,7 @@ a {
 	right: 15px;
 	bottom: 130px;
 	padding: 0px 600px 0px 0px;
+	top: 2px;
 
 
 }
@@ -98,21 +100,42 @@ a {
 	position: absolute;
 	width: 362px;
 	height: 212px;
-	right: 15px;
-	bottom: 130px;
-	padding: 0px 50px 0px 0px;
-
+	padding: 0px 0px 0px 858px;
+	top: 1px;
+	
+	margin: 300px 0px 0px 0px;
 }
 #forest2 {
 	position: absolute;
 	width: 362px;
 	height: 212px;
-	padding: 0px 0px 0px 1200px;
-	bottom: 1px;
-	margin: 50px;
+	
+	right: 1px;
+	top: 1px;
+	margin: 610px;
+
+	
 
 
 	
+}
+.photos {
+	position: relative;
+}
+.BIGCARD {
+	width: 1440px;
+	height: 201px;
+	position: relative;
+	color: #818687;
+
+	
+	background-color: #243043;
+
+}
+.JOJO img {
+	width: 38px;
+	height: 40px;
+	padding: 58px 138px 103px 1200px;
 }
 
 
